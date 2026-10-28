@@ -19,7 +19,7 @@ Python (Pandas, Seaborn), SQL, Power BI.
 - Усилить онбординг в первые 6 месяцев.
 - Проверить качество услуги Fibre optic.
 
-##Изображения
+
 
 <img width="1311" height="731" alt="дашборд" src="https://github.com/user-attachments/assets/06b5ec44-8c95-47b2-9624-a8cb44b351be" />
 
