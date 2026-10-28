@@ -18,3 +18,19 @@ Python (Pandas, Seaborn), SQL, Power BI.
 - Стимулировать переход на годовые контракты (скидка/бонус).
 - Усилить онбординг в первые 6 месяцев.
 - Проверить качество услуги Fibre optic.
+
+##Изображения
+
+<img width="1311" height="731" alt="дашборд" src="https://github.com/user-attachments/assets/06b5ec44-8c95-47b2-9624-a8cb44b351be" />
+
+<img width="1152" height="768" alt="зависимость оттока клиентов от размера тарифа" src="https://github.com/user-attachments/assets/9c02204d-cca1-4f88-9163-568cb16b91d6" />
+
+<img width="1162" height="764" alt="зависимость оттока клиентов от срока владения" src="https://github.com/user-attachments/assets/14721a93-66be-4535-a68a-225e9f5a1869" />
+
+<img width="1155" height="768" alt="зависимость оттока клиентов от типа услуги" src="https://github.com/user-attachments/assets/39cf3194-1d7a-45fe-8d4d-e7dff4634791" />
+
+
+
+
+
+  
