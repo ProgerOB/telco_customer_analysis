@@ -5,8 +5,11 @@
 
 ## Данные
 [Источник базы данных Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
-[Очищенные от пустых строк данные](data/telco_churn_cleaned.csv) 
+
+[Очищенные от пустых строк данные](data/telco_churn_cleaned.csv)
+
 [SQL-запросы для определения факторов, влияющих на отток](sql/telco_churn_queries.sql)
+
 [Интерактивный дашборд в Power BI](dashboard/telco_churn_dashboard.pbix) 
 
 ## Инструменты
