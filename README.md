@@ -28,8 +28,8 @@ Python (Pandas, Seaborn), SQL, Power BI.
 <img width="1311" height="731" alt="дашборд" src="https://github.com/user-attachments/assets/06b5ec44-8c95-47b2-9624-a8cb44b351be" />
 
 ![зависимость оттока клиентов от размера тарифа](images/зависимость оттока клиентов от размера тарифа.png)
-![Отток по стажу](images/churn_by_tenure.png)
-![Отток по стажу](images/churn_by_tenure.png)
+![зависимость оттока клиентов от срока владения](images/зависимость оттока клиентов от срока владения.png)
+![зависимость оттока клиентов от типа услуги](images/зависимость оттока клиентов от типа услуги.png)
 
 <img width="1152" height="768" alt="зависимость оттока клиентов от размера тарифа" src="https://github.com/user-attachments/assets/9c02204d-cca1-4f88-9163-568cb16b91d6" />
 
