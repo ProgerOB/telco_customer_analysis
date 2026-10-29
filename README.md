@@ -4,9 +4,12 @@
 Компания теряет клиентов. Нужно понять, кто уходит и почему, чтобы предложить стратегию удержания.
 
 ## Данные
-[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 7 043 клиента, 21 признак.
-[Очищенные данные](data/telco_churn_cleaned.csv) Данные, очищенные от пустых строк.
+[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  7 043 клиента, 21 признак.
+
+[Очищенные данные](data/telco_churn_cleaned.csv)  Данные, очищенные от пустых строк.
+
 [SQL-запросы](sql/telco_churn_queries.sql) Запросы для определения факторов, влияющих на отток.
+
 [Файл дашборда Power BI](dashboard/telco_churn_dashboard.pbix) Интерактивный дашборд в Power BI.
 
 ## Инструменты
