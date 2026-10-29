@@ -4,7 +4,10 @@
 Компания теряет клиентов. Нужно понять, кто уходит и почему, чтобы предложить стратегию удержания.
 
 ## Данные
-[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — 7 043 клиента, 21 признак.
+[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 7 043 клиента, 21 признак.
+[Очищенные данные](data/telco_churn_cleaned.csv) Данные, очищенные от пустых строк.
+[SQL-запросы](sql/telco_churn_queries.sql) Запросы для определения факторов, влияющих на отток.
+[Файл дашборда Power BI](dashboard/telco_churn_dashboard.pbix) Интерактивный дашборд в Power BI.
 
 ## Инструменты
 Python (Pandas, Seaborn), SQL, Power BI.
@@ -19,10 +22,6 @@ Python (Pandas, Seaborn), SQL, Power BI.
 - Усилить онбординг в первые 6 месяцев.
 - Проверить качество услуги Fiber optic.
 
-## Ссылки
-
-  
-
 
 
 <img width="1311" height="731" alt="дашборд" src="https://github.com/user-attachments/assets/06b5ec44-8c95-47b2-9624-a8cb44b351be" />
@@ -31,11 +30,7 @@ Python (Pandas, Seaborn), SQL, Power BI.
 ![зависимость оттока клиентов от срока владения](<images/зависимость оттока клиентов от срока владения.png>)
 ![зависимость оттока клиентов от типа услуги](<images/зависимость оттока клиентов от типа услуги.png>)
 
-<img width="1152" height="768" alt="зависимость оттока клиентов от размера тарифа" src="https://github.com/user-attachments/assets/9c02204d-cca1-4f88-9163-568cb16b91d6" />
 
-<img width="1162" height="764" alt="зависимость оттока клиентов от срока владения" src="https://github.com/user-attachments/assets/14721a93-66be-4535-a68a-225e9f5a1869" />
-
-<img width="1155" height="768" alt="зависимость оттока клиентов от типа услуги" src="https://github.com/user-attachments/assets/39cf3194-1d7a-45fe-8d4d-e7dff4634791" />
 
 
 
